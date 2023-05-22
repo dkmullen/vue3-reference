@@ -1,0 +1,11 @@
+@import 'base.css';
+:root {
+  --primary: #008080;
+}
+.v-btn {
+  margin: 0 4px;
+  text-transform: none !important;
+}
+.v-btn__content {
+  font-size: large;
+}
